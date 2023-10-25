@@ -12,14 +12,14 @@
         "daily_grid_sell": "DNES PRODEJ",
         "daily_solar": "DNES VÝROBA",
         "daily_solar_left": "DNES VÝROBA / OČEKÁVANÁ VÝROBA",
-        "total_solar_generation": "DNES VÝROBA / TOTAL SOLAR",
+        "total_solar_generation": "DNES VÝROBA / CELKOVÁ VÝROBA",
         "daily_charge": "DNES NABÍJENÍ",
         "daily_discharge": "DNES VYBÍJENÍ",
         "ratio": "Poměr",
         "timer_off": "Časovač off",
         "timer_on": "Časovač on",
         "priority_batt": "Nabít Baterii z DS",
-        "priority_load": "Prioritní Spotřeba",
+        "priority_load": "Nabíjím Baterii z DS",
         "nonessential_name": "Nedostupné",
         "aux_name": "Pomocné",
         "load1_name": "",
@@ -29,7 +29,7 @@
         "pv3_name": "PV3",
         "pv4_name": "PV4",
         "essential": "Nezbytný",
-        "autarky": "Soběstačnost"
+        "autarky": "Vlastní"
     },
     "errors": {
         "battery": {
